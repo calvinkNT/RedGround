@@ -1,0 +1,114 @@
+[
+    {
+        "id": 59450335,
+        "username": "calvink19",
+        "message": "This is not a popular post :(",
+        "likes": 0,
+        "liked_by": [],
+        "replies": [],
+        "timestamp": 1764457899
+    },
+    {
+        "id": 36784254,
+        "username": "calvink19",
+        "message": "This is a popular post! ",
+        "likes": 1,
+        "liked_by": [
+            "calvink19"
+        ],
+        "replies": [
+            {
+                "username": "calvink19",
+                "text": "This is a reply."
+            }
+        ],
+        "timestamp": 1764457886
+    },
+    {
+        "id": 88614401,
+        "username": "1",
+        "message": "New post! Hi world",
+        "likes": 0,
+        "liked_by": [],
+        "replies": [
+            {
+                "username": "1",
+                "text": "hi !))"
+            },
+            {
+                "username": "1",
+                "text": "test"
+            },
+            {
+                "username": "1",
+                "text": "yoo! it works, lol.))"
+            },
+            {
+                "username": "1",
+                "text": "o"
+            },
+            {
+                "username": "1",
+                "text": "this is me! calvink19))"
+            }
+        ],
+        "timestamp": 1754292432
+    },
+    {
+        "id": 41549847,
+        "username": "1",
+        "message": "Hi! This is my first post. Am I doing it right?",
+        "likes": 0,
+        "liked_by": [],
+        "replies": [
+            {
+                "username": "1",
+                "text": "no fuck you"
+            },
+            {
+                "username": "1",
+                "text": "hey!"
+            },
+            {
+                "username": "1",
+                "text": "thats not cool fr."
+            }
+        ],
+        "timestamp": 1754292144
+    },
+    {
+        "id": 83752892,
+        "username": "calvink19",
+        "message": "hi",
+        "likes": 1,
+        "liked_by": [
+            "calvink19"
+        ],
+        "replies": [],
+        "timestamp": 1754287442
+    },
+    {
+        "id": 32495969,
+        "username": "calvink19",
+        "message": "My first post on RedGround. ;)",
+        "likes": 1,
+        "liked_by": [
+            "1"
+        ],
+        "replies": [
+            {
+                "username": "1",
+                "text": "hi calvin!!"
+            },
+            {
+                "username": "calvink19",
+                "text": "yo"
+            },
+            {
+                "username": "calvink19",
+                "text": "test"
+            }
+        ],
+        "timestamp": 1754202830
+    }
+]

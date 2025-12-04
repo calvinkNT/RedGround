@@ -1,0 +1,251 @@
+[
+    {
+        "id": 1754197765,
+        "username": "1",
+        "message": "yo yo yo!",
+        "likes": 0,
+        "liked_by": [],
+        "replies": []
+    },
+    {
+        "id": 1754075291,
+        "username": "calvinknt",
+        "message": "welcome to redground! if there are any features y'all would like me to implement (like photos or such) please let me know. :)",
+        "likes": 2,
+        "liked_by": [
+            "calvinknt",
+            "1"
+        ],
+        "replies": [
+            {
+                "username": "1",
+                "text": "nice! thanks bro:)"
+            }
+        ]
+    },
+    {
+        "id": 1753918443,
+        "username": "1",
+        "message": "111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "likes": 1,
+        "liked_by": [
+            "calvinknt"
+        ],
+        "replies": [
+            {
+                "username": "calvinknt",
+                "text": "test"
+            },
+            {
+                "username": "calvinknt",
+                "text": "2"
+            },
+            {
+                "username": "calvinknt",
+                "text": "2"
+            },
+            {
+                "username": "calvinknt",
+                "text": "2"
+            },
+            {
+                "username": "calvinknt",
+                "text": "2"
+            },
+            {
+                "username": "calvinknt",
+                "text": "2"
+            },
+            {
+                "username": "calvinknt",
+                "text": "2"
+            },
+            {
+                "username": "calvinknt",
+                "text": "2"
+            },
+            {
+                "username": "calvinknt",
+                "text": "2"
+            },
+            {
+                "username": "calvinknt",
+                "text": "2"
+            },
+            {
+                "username": "calvinknt",
+                "text": "2"
+            }
+        ]
+    },
+    {
+        "id": 1753911718,
+        "username": "1",
+        "message": "im feeling groovy",
+        "likes": 1,
+        "liked_by": [
+            "1"
+        ],
+        "replies": []
+    },
+    {
+        "id": 1753911564,
+        "username": "1",
+        "message": "g",
+        "likes": 1,
+        "liked_by": [
+            "1"
+        ],
+        "replies": []
+    },
+    {
+        "id": 1753140775,
+        "username": "calvink19",
+        "message": "yo",
+        "likes": 101,
+        "liked_by": [
+            "calvink19",
+            "1"
+        ],
+        "replies": [
+            {
+                "username": "calvink19",
+                "text": "Testing. It does indeed work))"
+            },
+            {
+                "username": "calvink19",
+                "text": "Lmaoo, nice !!"
+            },
+            {
+                "username": "calvink19",
+                "text": "yo"
+            },
+            {
+                "username": "1",
+                "text": "50 likes !"
+            },
+            {
+                "username": "1",
+                "text": "test..."
+            }
+        ]
+    },
+    {
+        "id": 1753059567,
+        "username": "calvink19",
+        "message": "this is a really long post just to see whether the dynamic height functionality will work properly. ",
+        "likes": 1,
+        "liked_by": [
+            "calvink19"
+        ],
+        "replies": []
+    },
+    {
+        "id": 1753058306,
+        "username": "calvink19",
+        "message": "yo yo yo!",
+        "likes": 2,
+        "liked_by": [
+            "calvink19",
+            "1"
+        ],
+        "replies": []
+    },
+    {
+        "id": 1753057918,
+        "username": "calvink19",
+        "message": "etset",
+        "likes": 0,
+        "liked_by": [],
+        "replies": []
+    },
+    {
+        "id": 1753057612,
+        "username": "calvink19",
+        "message": "heya",
+        "likes": 0,
+        "liked_by": [],
+        "replies": [
+            {
+                "username": "calvink19",
+                "text": "lol"
+            }
+        ]
+    },
+    {
+        "id": 1748840193,
+        "username": "calvink19",
+        "message": "make username uppercase-lowercase checker",
+        "likes": 1,
+        "liked_by": [
+            "1"
+        ],
+        "replies": []
+    },
+    {
+        "id": 1748622506,
+        "username": "dev",
+        "message": "add new version checker",
+        "likes": 0,
+        "liked_by": [],
+        "replies": []
+    },
+    {
+        "id": 1748620044,
+        "username": "dev",
+        "message": "** make reply btn open dialogue",
+        "likes": 1,
+        "liked_by": [
+            "calvinknt"
+        ],
+        "replies": []
+    },
+    {
+        "id": 1748602803,
+        "username": "calvink19",
+        "message": "hello world!",
+        "likes": 4,
+        "liked_by": [
+            "dev",
+            "1",
+            "calvink19",
+            "calvinknt"
+        ],
+        "replies": [
+            {
+                "username": "calvink19",
+                "text": "This reply looks alright."
+            },
+            {
+                "username": "",
+                "text": "vro"
+            }
+        ]
+    },
+    {
+        "id": 1748601760,
+        "username": "calvink19",
+        "message": "test post.",
+        "likes": 4,
+        "liked_by": [
+            "dev",
+            "1",
+            "calvink19",
+            "calvinknt"
+        ],
+        "replies": [
+            {
+                "username": "calvink19",
+                "text": "Dope."
+            },
+            {
+                "username": "calvink19",
+                "text": "Liking works too."
+            },
+            {
+                "username": "calvinknt",
+                "text": "yoo! replies also work :DD"
+            }
+        ]
+    }
+]
